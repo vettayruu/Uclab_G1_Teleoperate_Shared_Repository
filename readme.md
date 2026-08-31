@@ -1,1 +1,1 @@
-This is the repository for contributora in uclab.
+This is the repository for contributors in uclab.
